@@ -1,4 +1,4 @@
 # Demo-mayurp
 This is my first git repository.
 <br>
-Author - Mayur Patil
+Author - Mayur Patil (mp)
